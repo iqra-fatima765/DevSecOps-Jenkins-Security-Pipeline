@@ -245,6 +245,14 @@ Security Analysis & Reporting
 
 ---
 
+# 📚 Key Learning
+
+One of the most valuable parts of this lab was understanding how different security testing techniques can be integrated into a single CI/CD pipeline, allowing security checks to be performed at multiple stages of the development lifecycle. 🔐
+
+This approach demonstrated how automated security analysis can provide continuous feedback, helping identify vulnerabilities and security weaknesses earlier in the software development process. 🚀
+
+---
+
 # ⭐ Conclusion
 
 This lab provided valuable hands-on experience in **DevSecOps, Jenkins, CI/CD Security, Automated Security Testing, and Secure Software Development**.
@@ -252,14 +260,6 @@ This lab provided valuable hands-on experience in **DevSecOps, Jenkins, CI/CD Se
 It demonstrated how security can be integrated throughout the CI/CD pipeline to identify and address security issues earlier in the software development lifecycle.
 
 **Learn. Build. Secure. Grow. 🚀🔐**
-
----
-
-# 📚 Key Learning
-
-One of the most valuable parts of this lab was understanding how different security testing techniques can be integrated into a single CI/CD pipeline, allowing security checks to be performed at multiple stages of the development lifecycle. 🔐
-
-This approach demonstrated how automated security analysis can provide continuous feedback, helping identify vulnerabilities and security weaknesses earlier in the software development process. 🚀
 
 ---
 
