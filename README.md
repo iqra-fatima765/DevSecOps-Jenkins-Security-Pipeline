@@ -245,14 +245,6 @@ Security Analysis & Reporting
 
 ---
 
-# ⚠️ Disclaimer
-
-This lab is intended for **educational and authorized security testing purposes only**.
-
-All security testing activities should be performed only on systems, applications, and environments for which proper authorization has been obtained.
-
----
-
 # ⭐ Conclusion
 
 This lab provided valuable hands-on experience in **DevSecOps, Jenkins, CI/CD Security, Automated Security Testing, and Secure Software Development**.
