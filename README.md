@@ -211,3 +211,21 @@ Container Security
     DAST
      ↓
 Security Analysis & Reporting
+
+# 📚 Key Learning
+
+One of the most valuable parts of this lab was understanding how different security testing techniques can be integrated into a single CI/CD pipeline, allowing security checks to be performed at multiple stages of the development lifecycle. 
+
+This approach demonstrated how automated security analysis can provide continuous feedback, helping identify vulnerabilities and security weaknesses earlier in the software development process.
+
+---
+
+# 👩‍💻 Author
+
+**Iqra Fatima**
+
+🔐 Cybersecurity Student | Aspiring Ethical Hacker
+
+- GitHub: https://github.com/iqra-fatima765
+- LinkedIn: https://www.linkedin.com/in/iqra-fatima-7b1b96341/
+
