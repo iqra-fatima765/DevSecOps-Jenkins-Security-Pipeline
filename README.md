@@ -218,8 +218,6 @@ One of the most valuable parts of this lab was understanding how different secur
 
 This approach demonstrated how automated security analysis can provide continuous feedback, helping identify vulnerabilities and security weaknesses earlier in the software development process.
 
----
-
 # 👩‍💻 Author
 
 **Iqra Fatima**
