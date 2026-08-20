@@ -169,21 +169,21 @@ Unlike SAST, which examines source code, DAST evaluates the application's runtim
 
 ### 🛡️ Application Security
 
- 🔹 SonarQube
- 🔹 SAST
- 🔹 DAST
- 🔹 SCA
+ - SonarQube
+ - SAST
+ - DAST
+ - SCA
 
 ### 🔗 Dependency & Supply Chain Security
 
-- 🔹 OWASP Dependency-Check
-- 🔹 SBOM
-- 🔹 Secrets Detection
+- OWASP Dependency-Check
+- SBOM
+- Secrets Detection
 
 ### 🐳 Container Security
 
-- 🔹 Container Security
-- 🔹 Container Vulnerability Assessment
+- Container Security
+- Container Vulnerability Assessment
 
 ---
 
@@ -235,13 +235,13 @@ Security Analysis & Reporting
 
 # 🚀 Future Improvements
 
-- 🔹 Integrate additional security scanning tools
-- 🔹 Implement automated security gates
-- 🔹 Add vulnerability notifications
-- 🔹 Improve container security scanning
-- 🔹 Integrate cloud security testing
-- 🔹 Automate vulnerability remediation
-- 🔹 Implement continuous security monitoring
+- Integrate additional security scanning tools
+- Implement automated security gates
+- Add vulnerability notifications
+- Improve container security scanning
+- Integrate cloud security testing
+- Automate vulnerability remediation
+- Implement continuous security monitoring
 
 ---
 
