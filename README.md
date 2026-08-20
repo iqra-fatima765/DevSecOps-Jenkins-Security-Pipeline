@@ -220,6 +220,8 @@ Container Security
      ↓
 Security Analysis & Reporting
 
+```
+
 ---
 
 # 🎓 Academic Information
