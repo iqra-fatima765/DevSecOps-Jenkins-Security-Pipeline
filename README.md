@@ -31,9 +31,9 @@ The pipeline begins by retrieving the application source code required for the s
 
 ### Activities
 
-- 🔹 Source-code retrieval
-- 🔹 Repository checkout
-- 🔹 Workspace preparation
+- Source-code retrieval
+- Repository checkout
+- Workspace preparation
 
 ---
 
@@ -43,9 +43,9 @@ The build stage prepares the application for further analysis and security testi
 
 ### Activities
 
-- 🔹 Application build
-- 🔹 Dependency preparation
-- 🔹 Build verification
+- Application build
+- Dependency preparation
+- Build verification
 
 ---
 
@@ -57,10 +57,10 @@ In this lab, **SonarQube** was integrated into the Jenkins pipeline to perform s
 
 ### Purpose
 
-- 🔹 Identify potential coding vulnerabilities
-- 🔹 Detect code-quality issues
-- 🔹 Identify security hotspots
-- 🔹 Analyze source-code weaknesses
+- Identify potential coding vulnerabilities
+- Detect code-quality issues
+- Identify security hotspots
+- Analyze source-code weaknesses
 
 ### Tool
 
@@ -76,10 +76,10 @@ The dependency-check stage analyzes third-party libraries and dependencies used 
 
 ### Purpose
 
-- 🔹 Identify vulnerable dependencies
-- 🔹 Detect outdated components
-- 🔹 Analyze known Common Vulnerabilities and Exposures (CVEs)
-- 🔹 Improve dependency security
+- Identify vulnerable dependencies
+- Detect outdated components
+- Analyze known Common Vulnerabilities and Exposures (CVEs)
+- Improve dependency security
 
 ### Tool
 
@@ -93,10 +93,10 @@ An SBOM provides an inventory of software components and dependencies used withi
 
 ### Purpose
 
-- 🔹 Improve software component visibility
-- 🔹 Identify third-party dependencies
-- 🔹 Support vulnerability management
-- 🔹 Improve software supply-chain transparency
+- Improve software component visibility
+- Identify third-party dependencies
+- Support vulnerability management
+- Improve software supply-chain transparency
 
 ---
 
@@ -106,11 +106,11 @@ The secrets detection stage checks the source code for accidentally exposed sens
 
 ### Examples
 
-- 🔹 Passwords
-- 🔹 API keys
-- 🔹 Access tokens
-- 🔹 Credentials
-- 🔹 Other sensitive configuration data
+- Passwords
+- API keys
+- Access tokens
+- Credentials
+- Other sensitive configuration data
 
 ### Purpose
 
@@ -124,10 +124,10 @@ Software Composition Analysis focuses on identifying security risks within third
 
 ### Purpose
 
-- 🔹 Identify vulnerable open-source dependencies
-- 🔹 Analyze third-party libraries
-- 🔹 Improve software supply-chain security
-- 🔹 Support dependency risk management
+- Identify vulnerable open-source dependencies
+- Analyze third-party libraries
+- Improve software supply-chain security
+- Support dependency risk management
 
 ---
 
@@ -137,10 +137,10 @@ The container security stage evaluates application containers for potential secu
 
 ### Purpose
 
-- 🔹 Identify vulnerable container components
-- 🔹 Improve container security
-- 🔹 Detect potential security risks
-- 🔹 Support secure container deployment
+- Identify vulnerable container components
+- Improve container security
+- Detect potential security risks
+- Support secure container deployment
 
 ---
 
@@ -152,10 +152,10 @@ Unlike SAST, which examines source code, DAST evaluates the application's runtim
 
 ### Purpose
 
-- 🔹 Identify runtime vulnerabilities
-- 🔹 Test application behavior
-- 🔹 Detect potential web security issues
-- 🔹 Evaluate the security posture of the running application
+- Identify runtime vulnerabilities
+- Test application behavior
+- Detect potential web security issues
+- Evaluate the security posture of the running application
 
 ---
 
@@ -163,16 +163,16 @@ Unlike SAST, which examines source code, DAST evaluates the application's runtim
 
 ### ⚙️ CI/CD & Automation
 
-- 🔹 Jenkins
-- 🔹 CI/CD
-- 🔹 DevSecOps
+- Jenkins
+- CI/CD
+- DevSecOps
 
 ### 🛡️ Application Security
 
-- 🔹 SonarQube
-- 🔹 SAST
-- 🔹 DAST
-- 🔹 SCA
+ 🔹 SonarQube
+ 🔹 SAST
+ 🔹 DAST
+ 🔹 SCA
 
 ### 🔗 Dependency & Supply Chain Security
 
