@@ -212,6 +212,8 @@ Container Security
      ↓
 Security Analysis & Reporting
 
+---
+
 # 📚 Key Learning
 
 One of the most valuable parts of this lab was understanding how different security testing techniques can be integrated into a single CI/CD pipeline, allowing security checks to be performed at multiple stages of the development lifecycle. 
