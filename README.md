@@ -269,11 +269,9 @@ It demonstrated how security can be integrated throughout the CI/CD pipeline to 
 
 🔐 Cybersecurity Student | Aspiring Ethical Hacker
 
-📌 **GitHub:**  
-https://github.com/iqra-fatima765
+📌 **GitHub:**  https://github.com/iqra-fatima765
 
-📌 **LinkedIn:**  
-https://www.linkedin.com/in/iqra-fatima-7b1b96341/
+📌 **LinkedIn:**  https://www.linkedin.com/in/iqra-fatima-7b1b96341
 
 ---
 
